@@ -1,4 +1,4 @@
-## python_tetoris
+# python_tetoris
 
-# python version
+## python version
 python3.11
